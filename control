@@ -1,0 +1,9 @@
+Package: rip.bongs.blazintime
+Name: Blazin' Time
+Depends: mobilesubstrate
+Version: 4.20.0
+Architecture: iphoneos-arm
+Description: In a world that runs on 24-hour time, there's one moment that demands special recognition. With Blazin' Time, your iOS device will subtly switch to 12-hour time at 4:20, both in the AM and PM. Revel in the magic of 4:20 twice a day, every day!
+Maintainer: Mark J. Kuebel <markk@riseup.net>
+Author: Mark J. Kuebel <markk@riseup.net>
+Section: Tweaks
